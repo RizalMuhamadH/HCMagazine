@@ -1,0 +1,6 @@
+framework module Pods_HCMagazineUITests {
+  umbrella header "Pods-HCMagazineUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
